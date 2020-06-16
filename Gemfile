@@ -3,6 +3,6 @@ ruby "2.2.3"
 
 gem 'json'
 gem 'puma'
-gem 'sinatra', "~> 1.4.6"
+gem 'sinatra', '~> 2.0.0'
 gem 'cloudinary', "~> 1.1.7"
 
